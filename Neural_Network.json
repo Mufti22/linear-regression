@@ -1,0 +1,16 @@
+{
+  "\u0422\u0438\u043f\u041c\u043e\u0434\u0435\u043b\u0438": "<class 'keras.engine.sequential.Sequential'>",
+  "\u041d\u043e\u0440\u043c\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f": true,
+  "features": [
+    "carat",
+    "x",
+    "y",
+    "z",
+    "clarity"
+  ],
+  "target": [
+    "price"
+  ],
+  "R2": 0.92903323633621,
+  "RMSE": 0.05695829991973437
+}
